@@ -56,6 +56,7 @@ Decorator/
 │   ├── SugarDecortor.java
 │   └── WhipCreamDecorator.java
 ├── img/
+│   ├── decorator_diagram.png
 │   └── output1.png
 └────────────────────────────────
 ```
