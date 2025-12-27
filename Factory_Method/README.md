@@ -1,4 +1,4 @@
-# Factory Method Pattern - Building Example
+# Factory Method Pattern (Building Example)
 
 This folder demonstrates the **Factory Method Design Pattern** in Java, using **Building types** (`Home`, `House`, `Hut`) as an example.  
 
