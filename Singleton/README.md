@@ -79,10 +79,10 @@ Both tasks demonstrate how Singleton provides **controlled global access** while
 
 ### Task 1 Output
 
-![Game Configuration Output](task1/img/output1.png)
+![Game Configuration Output](Example1/img/output1.png)
 
 ### Task 2 Output
 
-![President Singleton Output](task2/img/output1.png)
+![President Singleton Output](Example2/img/output1.png)
 
 ---
