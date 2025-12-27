@@ -75,7 +75,7 @@ Both tasks demonstrate how Singleton provides **controlled global access** while
 
 ---
 
-## 🖼 Sample Output
+## Sample Output
 
 ### Task 1 Output
 
