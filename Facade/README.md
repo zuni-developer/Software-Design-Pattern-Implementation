@@ -49,6 +49,7 @@ Facade/
 │   ├── TravelBookingTest.java
 │   └── TravelFacade.java
 ├── img/
+│   ├── facade_diagram.png
 │   └── output1.png
 └───────────────────────────────
 ```
