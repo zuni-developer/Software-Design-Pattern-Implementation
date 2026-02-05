@@ -1,5 +1,5 @@
 Thank you for your interest in contributing to this repository!  
-This project focuses on clean, practical, and well-documented implementations of Software Design Patterns.
+This project focuses on clean, practical, and well-documented implementations of Software Design Patterns in Java.
 
 Contributions that improve learning value, code quality, and structure are always welcome.
 
@@ -35,6 +35,7 @@ Pattern_Name/
 ````
 
 Guidelines:
+- Use **Java** 
 - Each pattern must be placed in its **own folder**
 - Folder names should be descriptive and consistent
 - Patterns should be implemented **independently**
